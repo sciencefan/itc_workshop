@@ -31,7 +31,7 @@ Real5 = read.table(file = paste("./data/5m/Real5.csv", sep = ""), sep = ",", hea
 Real6 = read.table(file = paste("./data/5m/Real6.csv", sep = ""), sep = ",", header = TRUE)
 
 ### 3. Basic plot
-ts = WeeklyHumanNoise
+ts = SinusNoise
 
 gg_ts = ggplot(ts, aes(x = timestamp, y = value))
 gg_ts =  gg_ts + geom_line()
