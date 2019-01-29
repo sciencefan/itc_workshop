@@ -1,8 +1,22 @@
-We are going to use R/RStudio. If it is not installed on your system
+We are going to use R/RStudio.
 
 
-1. install R : https://cran.r-project.org/
+If it is not installed on your system
 
-2. install RStudio IDE :https://www.rstudio.com/products/rstudio/download/#download
+Option A: If you have Anaconda explorer on your system:
 
-3. open the .Rproj file you downloaded
+Just install rstudio
+
+Option B:
+
+B.1. install R : https://cran.r-project.org/
+
+B.2. install RStudio IDE :https://www.rstudio.com/products/rstudio/download/#download
+
+
+
+
+
+
+
+Then open the .Rproj file you downloaded
