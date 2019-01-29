@@ -1,3 +1,8 @@
+We are going to use R/RStudio. If it is not installed on your system
+
+
 1. install R : https://cran.r-project.org/
 
-2. https://www.rstudio.com/products/rstudio/download/#download
+2. install RStudio IDE :https://www.rstudio.com/products/rstudio/download/#download
+
+3. open the .Rproj file you downloaded
